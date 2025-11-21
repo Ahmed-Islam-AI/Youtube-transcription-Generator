@@ -1,0 +1,6 @@
+youtube-transcript-api
+openai-whisper
+yt-dlp
+torch
+numpy
+tqdm
