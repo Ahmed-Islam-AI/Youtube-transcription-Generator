@@ -25,16 +25,15 @@ There are two distinct methods implemented in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Ahmed-Islam-AI/Youtube-transcription-Generator.git
    cd youtube-transcript-generator
-````
 
 2.  Install Python dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
------
+
 
 ## 📖 Usage Guide
 
@@ -99,4 +98,3 @@ This method uses `yt-dlp` to extract audio and OpenAI's Whisper (Medium model) t
   * **Model Selection:** The notebook is configured to use the `medium` Whisper model. You can change this to `small` for speed or `large` for higher accuracy in the configuration cell.
   * **Legal:** Please ensure you comply with YouTube's Terms of Service regarding content usage.
 
-<!-- end list -->
